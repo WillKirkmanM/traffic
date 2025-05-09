@@ -4,12 +4,8 @@
 <h1 align="center">Traffic</h1>
 
 <p align="center">
-  
+  <img src="https://github.com/user-attachments/assets/a05c04a0-e8d1-42ab-a717-33235c576842" />
 </p>
-
-<h4 align="center">
-  <a href=""></a>
-</h4>
 
 <p align="center">Four Way Traffic Simulator with Lights & Vehicles Following Traffic Rules
 </p>
